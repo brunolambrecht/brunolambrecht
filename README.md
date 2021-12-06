@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo 👋
+### Olá! Seja bem vindo 👋 <img src="https://komarev.com/ghpvc/?username=brunolambrecht&color=blue&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 
 
 - 🔭 Hoje trabalho como analista de sistemas
